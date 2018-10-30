@@ -6,6 +6,7 @@
 #include <sstream>
 #include <iomanip>
 #include <algorithm>
+#include <stdlib.h>
 
 using namespace std;
 
@@ -61,9 +62,54 @@ int main(int argc,char* argv[])
 	ifstream title_ratings_file;
 	title_ratings_file.open("../title.ratings.tsv");
 
+	ifstream title_akas_file;
+	title_akas_file.open("../title.akas.tsv");
+
 	string temp1,temp2,temp3;
 	
 	cout<<argc<<"\t"<<argv[1]<<endl;
+
+	cout<<"Reading Akas File"<<endl;
+	
+	string titleId;
+	string region;
+	string titleMain;
+	
+	while(getline(title_akas_file,temp1,'\n'))
+	{
+		
+		vector<string> elems;
+		
+		std::stringstream ss;
+		ss.str(temp1);
+		std::string item;
+    			
+    		std::getline(ss, item, '\t');titleId = item;
+		std::getline(ss, item, '\t');
+		std::getline(ss, item, '\t');titleMain = item;
+		std::getline(ss, item, '\t');region = item;
+				
+		int compare_title = strcmp(argv[1],titleId.c_str());
+		int compare_region = strcmp("\\N",region.c_str());
+		
+			
+		if(compare_title==0&&compare_region==0)
+		{
+			//cout<<titleId.c_str()<<"\t"<<region.c_str()<<"\t"<<titleMain.c_str()<<endl;
+			//getchar();
+			ofstream output_name;
+			output_name.open("Name.txt");
+			output_name<<"\'"<<titleMain.c_str()<<"\'";
+			output_name.close();
+			break;
+			
+		}
+	}
+	
+	cout<<"Finished Akas File"<<endl;
+
+	tconst.clear();
+
 
 	cout<<"Reading Episode File"<<endl;
 	while(getline(title_episodes_file,temp1,'\n'))
@@ -178,7 +224,7 @@ int main(int argc,char* argv[])
 
 	}
     	cout<<"Finished title File"<<endl;
-	cout<<table_vector.size()<<endl;
+	//cout<<table_vector.size()<<endl;
 	
 	cout<<"Create ranks"<<endl;
 	
@@ -199,7 +245,7 @@ int main(int argc,char* argv[])
 		ss1>>sea;
 
 		table_vector[i].rank = sea*100+epi;
-		cout<<table_vector[i].rank<<endl;
+		//cout<<table_vector[i].rank<<endl;
 			
 	}
 
@@ -213,7 +259,20 @@ int main(int argc,char* argv[])
 		output<<table_vector[i].tconst_table<<";"<<setw(40)<<std::left<<table_vector[i].title_table.substr(0,40)<<";"<<table_vector[i].averageRating_table<<";"
 			<<table_vector[i].numVotes_table<<";"<<table_vector[i].seasonNumber_table<<";"<<table_vector[i].episodeNumber_table<<";"<<table_vector[i].rank<<endl;
 	}
-	
+	//cout<<setw(40)<<std::left<<titleMain.substr(0,40)<<endl;
 	//cout<<endl<<parentTconst.size()<<endl;
+	//string mypath="TITLE_MAIN=" + titleMain;
+	//char *cstr = new char[mypath.length() + 1];
+	//strcpy(cstr, mypath.c_str());
+	//putenv(cstr);
+	//cout<<setenv("TITLE",titleMain.c_str(),true)<<endl;
+	//const char* env_p = getenv("TITLE");
+	//cout<<"TITLE="<<env_p;
+	//delete [] cstr;	
+	
+	//ofstream output_name;
+	//output_name.open("Name.txt");
+	//output_name<<"\""<<titleMain.c_str()<<"\"";
+	
 	return 0;
 }

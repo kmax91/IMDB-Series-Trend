@@ -1,73 +1,110 @@
-tt1480055;Winter Is Coming                        ;9.0;26215;1;1;101
-tt1668746;The Kingsroad                           ;8.8;20080;1;2;102
-tt1829962;Lord Snow                               ;8.7;18953;1;3;103
-tt1829963;Cripples, Bastards, and Broken Things   ;8.8;18133;1;4;104
-tt1829964;The Wolf and the Lion                   ;9.1;19098;1;5;105
-tt1837862;A Golden Crown                          ;9.2;18926;1;6;106
-tt1837863;You Win or You Die                      ;9.3;19306;1;7;107
-tt1837864;The Pointy End                          ;9.1;17674;1;8;108
-tt1851398;Baelor                                  ;9.6;25096;1;9;109
-tt1851397;Fire and Blood                          ;9.5;22183;1;10;110
-tt1971833;The North Remembers                     ;8.9;17667;2;1;201
-tt2069318;The Night Lands                         ;8.6;16556;2;2;202
-tt2070135;What Is Dead May Never Die              ;8.9;16384;2;3;203
-tt2069319;Garden of Bones                         ;8.9;15730;2;4;204
-tt2074658;The Ghost of Harrenhal                  ;8.9;15898;2;5;205
-tt2085238;The Old Gods and the New                ;9.1;16846;2;6;206
-tt2085239;A Man Without Honor                     ;9.0;16297;2;7;207
-tt2085240;The Prince of Winterfell                ;8.9;16033;2;8;208
-tt2084342;Blackwater                              ;9.7;29112;2;9;209
-tt2112510;Valar Morghulis                         ;9.4;20560;2;10;210
-tt2178782;Valar Dohaeris                          ;8.9;18044;3;1;301
-tt2178772;Dark Wings, Dark Words                  ;8.6;15920;3;2;302
-tt2178802;Walk of Punishment                      ;8.9;16266;3;3;303
-tt2178798;And Now His Watch Is Ended              ;9.6;22747;3;4;304
-tt2178788;Kissed by Fire                          ;9.0;16375;3;5;305
-tt2178812;The Climb                               ;8.9;16256;3;6;306
-tt2178814;The Bear and the Maiden Fair            ;8.8;15752;3;7;307
-tt2178806;Second Sons                             ;9.1;16221;3;8;308
-tt2178784;The Rains of Castamere                  ;9.9;66406;3;9;309
-tt2178796;Mhysa                                   ;9.2;18658;3;10;310
-tt2816136;Two Swords                              ;9.1;22480;4;1;401
-tt2832378;The Lion and the Rose                   ;9.7;36622;4;2;402
-tt2972426;Breaker of Chains                       ;8.9;18228;4;3;403
-tt2972428;Oathkeeper                              ;8.9;17369;4;4;404
-tt3060856;First of His Name                       ;8.8;16725;4;5;405
-tt3060910;The Laws of Gods and Men                ;9.7;31837;4;6;406
-tt3060876;Mockingbird                             ;9.2;18836;4;7;407
-tt3060782;The Mountain and the Viper              ;9.7;35384;4;8;408
-tt3060858;The Watchers on the Wall                ;9.6;28921;4;9;409
-tt3060860;The Children                            ;9.7;28839;4;10;410
-tt3658012;The Wars to Come                        ;8.6;19483;5;1;501
-tt3846626;The House of Black and White            ;8.6;16446;5;2;502
-tt3866836;High Sparrow                            ;8.6;15772;5;3;503
-tt3866838;Sons of the Harpy                       ;8.8;16383;5;4;504
-tt3866840;Kill the Boy                            ;8.7;16613;5;5;505
-tt3866842;Unbowed, Unbent, Unbroken               ;8.1;18935;5;6;506
-tt3866846;The Gift                                ;9.1;18709;5;7;507
-tt3866850;Hardhome                                ;9.9;69644;5;8;508
-tt3866826;The Dance of Dragons                    ;9.5;29710;5;9;509
-tt3866862;Mother's Mercy                          ;9.0;28876;5;10;510
-tt3658014;The Red Woman                           ;8.6;28255;6;1;601
-tt4077554;Home                                    ;9.5;34278;6;2;602
-tt4131606;Oathbreaker                             ;8.8;22523;6;3;603
-tt4283016;Book of the Stranger                    ;9.2;24663;6;4;604
-tt4283028;The Door                                ;9.7;50444;6;5;605
-tt4283054;Blood of My Blood                       ;8.5;22341;6;6;606
-tt4283060;The Broken Man                          ;8.6;21581;6;7;607
-tt4283074;No One                                  ;8.4;25148;6;8;608
-tt4283088;Battle of the Bastards                  ;9.9;156357;6;9;609
-tt4283094;The Winds of Winter                     ;9.9;107358;6;10;610
-tt5654088;Dragonstone                             ;8.7;35652;7;1;701
-tt5655178;Stormborn                               ;9.0;29641;7;2;702
-tt5775840;The Queen's Justice                     ;9.3;30766;7;3;703
-tt5775846;The Spoils of War                       ;9.8;62678;7;4;704
-tt5775854;Eastwatch                               ;9.0;28830;7;5;705
-tt5775864;Beyond the Wall                         ;9.2;42929;7;6;706
-tt5775874;The Dragon and the Wolf                 ;9.6;40968;7;7;707
-tt5924366;Episode #8.1                            ;	;	;8;1;801
-tt6027908;Episode #8.2                            ;	;	;8;2;802
-tt6027912;Episode #8.3                            ;	;	;8;3;803
-tt6027914;Episode #8.4                            ;	;	;8;4;804
-tt6027916;Episode #8.5                            ;	;	;8;5;805
-tt6027920;Episode #8.6                            ;	;	;8;6;806
+tt1589573;Pilot                                   ;8.6;2210;1;1;101
+tt1717968;Frank the Plank                         ;8.3;1786;1;2;102
+tt1732475;Aunt Ginger                             ;8.6;1706;1;3;103
+tt1733025;Casey Casden                            ;8.6;1629;1;4;104
+tt1744244;Three Boys                              ;8.2;1568;1;5;105
+tt1751740;Killer Carl                             ;8.3;1523;1;6;106
+tt1814411;Frank Gallagher: Loving Husband, Devoted;8.5;1492;1;7;107
+tt1812446;It's Time to Kill the Turtle            ;8.7;1460;1;8;108
+tt1812447;But at Last Came a Knock                ;8.8;1512;1;9;109
+tt1814409;Nana Gallagher Had an Affair            ;8.7;1439;1;10;110
+tt1814410;Daddyz Girl                             ;8.7;1450;1;11;111
+tt1812445;Father Frank, Full of Grace             ;9.0;1586;1;12;112
+tt1988453;Summertime                              ;8.4;1528;2;1;201
+tt2004908;Summer Loving                           ;8.2;1415;2;2;202
+tt2108266;I'll Light a Candle for You Every Day   ;8.4;1384;2;3;203
+tt2108267;A Beautiful Mess                        ;8.7;1345;2;4;204
+tt2108268;Father's Day                            ;8.5;1305;2;5;205
+tt2048583;Can I Have a Mother                     ;8.7;1292;2;6;206
+tt2064556;A Bottle of Jean Nate                   ;8.3;1284;2;7;207
+tt2105878;Parenthood                              ;8.8;1291;2;8;208
+tt2080942;Hurricane Monica                        ;8.5;1300;2;9;209
+tt2093744;A Great Cause                           ;8.7;1268;2;10;210
+tt2091073;Just Like the Pilgrims Intended         ;9.2;1690;2;11;211
+tt2104602;Fiona Interrupted                       ;8.9;1412;2;12;212
+tt2316912;El Gran Cañon                          ;8.8;1391;3;1;301
+tt2316918;The American Dream                      ;8.7;1287;3;2;302
+tt2316924;May I Trim Your Hedges?                 ;8.9;1394;3;3;303
+tt2316926;The Helpful Gallaghers                  ;8.7;1287;3;4;304
+tt2316928;The Sins of My Caretaker                ;8.9;1333;3;5;305
+tt2386512;Cascading Failures                      ;9.0;1367;3;6;306
+tt2666306;A Long Way from Home                    ;8.8;1249;3;7;307
+tt2666310;Where There's a Will                    ;8.6;1199;3;8;308
+tt2666316;Frank the Plumber                       ;9.1;1305;3;9;309
+tt2666312;Civil Wrongs                            ;8.6;1196;3;10;310
+tt2666314;Order Room Service                      ;8.9;1260;3;11;311
+tt2747042;Survival of the Fittest                 ;9.3;1553;3;12;312
+tt2785156;Simple Pleasures                        ;8.5;1362;4;1;401
+tt3391660;My Oldest Daughter                      ;8.7;1260;4;2;402
+tt3380306;Like Father, Like Daughter              ;8.7;1241;4;3;403
+tt3332046;Strangers on a Train                    ;8.8;1262;4;4;404
+tt3437538;There's the Rub                         ;9.3;1522;4;5;405
+tt3437540;Iron City                               ;9.1;1366;4;6;406
+tt3391558;A Jailbird, Invalid, Martyr, Cutter, Ret;9.1;1391;4;7;407
+tt3507312;Hope Springs Paternal                   ;9.0;1339;4;8;408
+tt3478768;The Legend of Bonnie and Carl           ;9.2;1435;4;9;409
+tt3507322;Liver, I Hardly Know Her                ;9.0;1299;4;10;410
+tt3507316;Emily                                   ;9.5;1926;4;11;411
+tt3570280;Lazarus                                 ;9.6;3086;4;12;412
+tt3547068;Milk of the Gods                        ;8.6;1401;5;1;501
+tt3858936;I'm the Liver                           ;8.7;1282;5;2;502
+tt3858934;The Two Lisas                           ;8.9;1362;5;3;503
+tt3878444;A Night to Remem-- Wait, What?          ;9.0;1382;5;4;504
+tt3904378;Rite of Passage                         ;9.1;1414;5;5;505
+tt3953104;Crazy Love                              ;9.3;1953;5;6;506
+tt3979142;Tell Me You F**King Need Me             ;8.8;1309;5;7;507
+tt4056348;Uncle Carl                              ;9.1;1349;5;8;508
+tt4080744;Carl's First Sentencing                 ;9.2;1452;5;9;509
+tt4079958;South Side Rules                        ;9.1;1327;5;10;510
+tt4112036;Drugs Actually                          ;9.2;1401;5;11;511
+tt3902188;Love Songs (In the Key of Gallagher)    ;8.3;1774;5;12;512
+tt4368544;I Only Miss Her When I'm Breathing      ;8.7;1335;6;1;601
+tt4815168;#AbortionRules                          ;8.3;1219;6;2;602
+tt4881556;The F Word                              ;8.8;1231;6;3;603
+tt4850056;Going Once, Going Twice                 ;8.8;1159;6;4;604
+tt5037490;Refugees                                ;8.7;1144;6;5;605
+tt5056040;NSFW                                    ;8.8;1267;6;6;606
+tt5090596;Pimp's Paradise                         ;8.3;1106;6;7;607
+tt5152654;Be a Good Boy. Come for Grandma         ;8.7;1067;6;8;608
+tt5159602;A Yurt of One's Own                     ;8.9;1131;6;9;609
+tt5205752;Paradise Lost                           ;8.6;1033;6;10;610
+tt5208858;Sleep No More                           ;9.1;1159;6;11;611
+tt4393194;Familia Supra Gallegorious Omnia!       ;9.1;1283;6;12;612
+tt5338242;Hiraeth                                 ;8.8;1180;7;1;701
+tt5521840;Swipe, Fuck, Leave                      ;8.5;1077;7;2;702
+tt5585914;Home Sweet Homeless Shelter             ;8.7;1037;7;3;703
+tt5602264;I Am A Storm                            ;8.8;1126;7;4;704
+tt5638836;Own Your Shit                           ;8.4;1005;7;5;705
+tt5678448;The Defenestration of Frank             ;8.8;991;7;6;706
+tt5688526;You'll Never Ever Get a Chicken in Your ;8.5;1013;7;7;707
+tt5745128;You Sold Me the Laundromat, Remember?   ;9.2;1290;7;8;708
+tt5745132;Ouroboros                               ;8.8;1007;7;9;709
+tt5745134;Ride or Die                             ;9.1;1216;7;10;710
+tt5745136;Happily Ever After                      ;9.4;1445;7;11;711
+tt5507134;Requiem for a Slut                      ;9.4;1512;7;12;712
+tt6347410;We Become What We... Frank!             ;8.6;889;8;1;801
+tt6349112;Where's My Meth?                        ;8.4;678;8;2;802
+tt6360832;God Bless Her Rotting Soul              ;9.1;862;8;3;803
+tt6402814;Fuck Paying It Forward                  ;8.7;657;8;4;804
+tt6423672;The (Mis)Education of Liam Fergus Beirch;8.4;598;8;5;805
+tt6428796;Icarus Fell. And Rusty Ate Him.         ;8.4;603;8;6;806
+tt6428802;Occupy Fiona                            ;8.3;576;8;7;807
+tt6428804;Frank's Northern Shuttle Express        ;8.3;576;8;8;808
+tt6428808;The Fugees                              ;8.2;547;8;9;809
+tt6428800;Church of Gay Jesus                     ;8.0;537;8;10;810
+tt6428798;A Gallagher Pedicure                    ;8.7;635;8;11;811
+tt6360834;Sleepwalking                            ;8.4;604;8;12;812
+tt7613412;Are You There Shim? It's Me, Ian.       ;8.4;376;9;1;901
+tt8245452;Mo White!                               ;7.7;244;9;2;902
+tt8245454;Weirdo Gallagher Vortex                 ;7.9;146;9;3;903
+tt8245456;Do Right, Vote White!                   ;	;	;9;4;904
+tt8245464;Black-Haired Ginger                     ;	;	;9;5;905
+tt8245466;Face It, You're Gorgeous                ;	;	;9;6;906
+tt8245470;Down Like the Titanic                   ;	;	;9;7;907
+tt8245468;Episode #9.8                            ;	;	;9;8;908
+tt8245474;Episode #9.9                            ;	;	;9;9;909
+tt8245476;Episode #9.10                           ;	;	;9;10;910
+tt8245478;Episode #9.11                           ;	;	;9;11;911
+tt8245480;Episode #9.12                           ;	;	;9;12;912
+tt8810000;Episode #9.13                           ;	;	;9;13;913
+tt8810002;Episode #9.14                           ;	;	;9;14;914

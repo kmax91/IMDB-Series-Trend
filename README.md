@@ -1,7 +1,7 @@
 # IMDB-Series-Trend
 
 ## Procedure:
-1. Import the IMDB datasets from the following URL:
+1. Import the IMDB datasets from the following URL:  
 https://datasets.imdbws.com/
  
 2. Unzip the files (use gunzip)
