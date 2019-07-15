@@ -1,110 +1,46 @@
-tt1589573;Pilot                                   ;8.6;2210;1;1;101
-tt1717968;Frank the Plank                         ;8.3;1786;1;2;102
-tt1732475;Aunt Ginger                             ;8.6;1706;1;3;103
-tt1733025;Casey Casden                            ;8.6;1629;1;4;104
-tt1744244;Three Boys                              ;8.2;1568;1;5;105
-tt1751740;Killer Carl                             ;8.3;1523;1;6;106
-tt1814411;Frank Gallagher: Loving Husband, Devoted;8.5;1492;1;7;107
-tt1812446;It's Time to Kill the Turtle            ;8.7;1460;1;8;108
-tt1812447;But at Last Came a Knock                ;8.8;1512;1;9;109
-tt1814409;Nana Gallagher Had an Affair            ;8.7;1439;1;10;110
-tt1814410;Daddyz Girl                             ;8.7;1450;1;11;111
-tt1812445;Father Frank, Full of Grace             ;9.0;1586;1;12;112
-tt1988453;Summertime                              ;8.4;1528;2;1;201
-tt2004908;Summer Loving                           ;8.2;1415;2;2;202
-tt2108266;I'll Light a Candle for You Every Day   ;8.4;1384;2;3;203
-tt2108267;A Beautiful Mess                        ;8.7;1345;2;4;204
-tt2108268;Father's Day                            ;8.5;1305;2;5;205
-tt2048583;Can I Have a Mother                     ;8.7;1292;2;6;206
-tt2064556;A Bottle of Jean Nate                   ;8.3;1284;2;7;207
-tt2105878;Parenthood                              ;8.8;1291;2;8;208
-tt2080942;Hurricane Monica                        ;8.5;1300;2;9;209
-tt2093744;A Great Cause                           ;8.7;1268;2;10;210
-tt2091073;Just Like the Pilgrims Intended         ;9.2;1690;2;11;211
-tt2104602;Fiona Interrupted                       ;8.9;1412;2;12;212
-tt2316912;El Gran Cañon                          ;8.8;1391;3;1;301
-tt2316918;The American Dream                      ;8.7;1287;3;2;302
-tt2316924;May I Trim Your Hedges?                 ;8.9;1394;3;3;303
-tt2316926;The Helpful Gallaghers                  ;8.7;1287;3;4;304
-tt2316928;The Sins of My Caretaker                ;8.9;1333;3;5;305
-tt2386512;Cascading Failures                      ;9.0;1367;3;6;306
-tt2666306;A Long Way from Home                    ;8.8;1249;3;7;307
-tt2666310;Where There's a Will                    ;8.6;1199;3;8;308
-tt2666316;Frank the Plumber                       ;9.1;1305;3;9;309
-tt2666312;Civil Wrongs                            ;8.6;1196;3;10;310
-tt2666314;Order Room Service                      ;8.9;1260;3;11;311
-tt2747042;Survival of the Fittest                 ;9.3;1553;3;12;312
-tt2785156;Simple Pleasures                        ;8.5;1362;4;1;401
-tt3391660;My Oldest Daughter                      ;8.7;1260;4;2;402
-tt3380306;Like Father, Like Daughter              ;8.7;1241;4;3;403
-tt3332046;Strangers on a Train                    ;8.8;1262;4;4;404
-tt3437538;There's the Rub                         ;9.3;1522;4;5;405
-tt3437540;Iron City                               ;9.1;1366;4;6;406
-tt3391558;A Jailbird, Invalid, Martyr, Cutter, Ret;9.1;1391;4;7;407
-tt3507312;Hope Springs Paternal                   ;9.0;1339;4;8;408
-tt3478768;The Legend of Bonnie and Carl           ;9.2;1435;4;9;409
-tt3507322;Liver, I Hardly Know Her                ;9.0;1299;4;10;410
-tt3507316;Emily                                   ;9.5;1926;4;11;411
-tt3570280;Lazarus                                 ;9.6;3086;4;12;412
-tt3547068;Milk of the Gods                        ;8.6;1401;5;1;501
-tt3858936;I'm the Liver                           ;8.7;1282;5;2;502
-tt3858934;The Two Lisas                           ;8.9;1362;5;3;503
-tt3878444;A Night to Remem-- Wait, What?          ;9.0;1382;5;4;504
-tt3904378;Rite of Passage                         ;9.1;1414;5;5;505
-tt3953104;Crazy Love                              ;9.3;1953;5;6;506
-tt3979142;Tell Me You F**King Need Me             ;8.8;1309;5;7;507
-tt4056348;Uncle Carl                              ;9.1;1349;5;8;508
-tt4080744;Carl's First Sentencing                 ;9.2;1452;5;9;509
-tt4079958;South Side Rules                        ;9.1;1327;5;10;510
-tt4112036;Drugs Actually                          ;9.2;1401;5;11;511
-tt3902188;Love Songs (In the Key of Gallagher)    ;8.3;1774;5;12;512
-tt4368544;I Only Miss Her When I'm Breathing      ;8.7;1335;6;1;601
-tt4815168;#AbortionRules                          ;8.3;1219;6;2;602
-tt4881556;The F Word                              ;8.8;1231;6;3;603
-tt4850056;Going Once, Going Twice                 ;8.8;1159;6;4;604
-tt5037490;Refugees                                ;8.7;1144;6;5;605
-tt5056040;NSFW                                    ;8.8;1267;6;6;606
-tt5090596;Pimp's Paradise                         ;8.3;1106;6;7;607
-tt5152654;Be a Good Boy. Come for Grandma         ;8.7;1067;6;8;608
-tt5159602;A Yurt of One's Own                     ;8.9;1131;6;9;609
-tt5205752;Paradise Lost                           ;8.6;1033;6;10;610
-tt5208858;Sleep No More                           ;9.1;1159;6;11;611
-tt4393194;Familia Supra Gallegorious Omnia!       ;9.1;1283;6;12;612
-tt5338242;Hiraeth                                 ;8.8;1180;7;1;701
-tt5521840;Swipe, Fuck, Leave                      ;8.5;1077;7;2;702
-tt5585914;Home Sweet Homeless Shelter             ;8.7;1037;7;3;703
-tt5602264;I Am A Storm                            ;8.8;1126;7;4;704
-tt5638836;Own Your Shit                           ;8.4;1005;7;5;705
-tt5678448;The Defenestration of Frank             ;8.8;991;7;6;706
-tt5688526;You'll Never Ever Get a Chicken in Your ;8.5;1013;7;7;707
-tt5745128;You Sold Me the Laundromat, Remember?   ;9.2;1290;7;8;708
-tt5745132;Ouroboros                               ;8.8;1007;7;9;709
-tt5745134;Ride or Die                             ;9.1;1216;7;10;710
-tt5745136;Happily Ever After                      ;9.4;1445;7;11;711
-tt5507134;Requiem for a Slut                      ;9.4;1512;7;12;712
-tt6347410;We Become What We... Frank!             ;8.6;889;8;1;801
-tt6349112;Where's My Meth?                        ;8.4;678;8;2;802
-tt6360832;God Bless Her Rotting Soul              ;9.1;862;8;3;803
-tt6402814;Fuck Paying It Forward                  ;8.7;657;8;4;804
-tt6423672;The (Mis)Education of Liam Fergus Beirch;8.4;598;8;5;805
-tt6428796;Icarus Fell. And Rusty Ate Him.         ;8.4;603;8;6;806
-tt6428802;Occupy Fiona                            ;8.3;576;8;7;807
-tt6428804;Frank's Northern Shuttle Express        ;8.3;576;8;8;808
-tt6428808;The Fugees                              ;8.2;547;8;9;809
-tt6428800;Church of Gay Jesus                     ;8.0;537;8;10;810
-tt6428798;A Gallagher Pedicure                    ;8.7;635;8;11;811
-tt6360834;Sleepwalking                            ;8.4;604;8;12;812
-tt7613412;Are You There Shim? It's Me, Ian.       ;8.4;376;9;1;901
-tt8245452;Mo White!                               ;7.7;244;9;2;902
-tt8245454;Weirdo Gallagher Vortex                 ;7.9;146;9;3;903
-tt8245456;Do Right, Vote White!                   ;	;	;9;4;904
-tt8245464;Black-Haired Ginger                     ;	;	;9;5;905
-tt8245466;Face It, You're Gorgeous                ;	;	;9;6;906
-tt8245470;Down Like the Titanic                   ;	;	;9;7;907
-tt8245468;Episode #9.8                            ;	;	;9;8;908
-tt8245474;Episode #9.9                            ;	;	;9;9;909
-tt8245476;Episode #9.10                           ;	;	;9;10;910
-tt8245478;Episode #9.11                           ;	;	;9;11;911
-tt8245480;Episode #9.12                           ;	;	;9;12;912
-tt8810000;Episode #9.13                           ;	;	;9;13;913
-tt8810002;Episode #9.14                           ;	;	;9;14;914
+tt2338872;Hate Crime Legislation Is for P...      ;7.6;20;1;1;101
+tt2373912;The Full Mountie                        ;8.1;17;1;2;102
+tt2386356;Screw You Mr. Wonderful                 ;8.1;13;1;3;103
+tt2407654;The Man with No Ass                     ;8.0;10;1;4;104
+tt2421472;Cousin Sammy Dies in the End            ;7.2;12;1;5;105
+tt2436636;Rainbows and Painted Hos                ;7.4;12;1;6;106
+tt2442936;Chokin' and Tokin' in the Queen City    ;7.8;12;1;7;107
+tt2458028;Al Capone Wears Ladies Underwear        ;7.5;13;1;8;108
+tt2472056;Petey Gets God'd                        ;7.8;9;1;9;109
+tt2485608;The Oracle of Vagina                    ;7.7;11;1;10;110
+tt2498314;The Horny Bastard                       ;7.3;13;1;11;111
+tt2511714;Sex on Ice                              ;8.4;14;1;12;112
+tt2523460;Hunts with Handgun                      ;8.7;15;1;13;113
+tt3139734;The McFrugals                           ;8.9;13;2;1;201
+tt3143978;Mennonites!                             ;8.3;11;2;2;202
+tt3139742;Too Cool for Night School               ;8.3;7;2;3;203
+tt3139744;The Broadfather                         ;8.8;8;2;4;204
+tt3173940;Royally Screwed                         ;9.2;6;2;5;205
+tt3184728;You Only Try Haggis Once                ;8.5;6;2;6;206
+tt3184726;From My Cold Limp Hands                 ;8.3;6;2;7;207
+tt3184732;The Fugly American                      ;8.5;6;2;8;208
+tt3254628;The Man from P.I.G.L.E.T.               ;8.8;5;2;9;209
+tt3254630;Pizza with Extra Cheech                 ;8.8;5;2;10;210
+tt3254634;The Balls on This Room                  ;8.2;6;2;11;211
+tt3254636;Ass-Jax                                 ;8.6;8;2;12;212
+tt3254638;Effin' Neighbors, Eh?                   ;8.2;6;2;13;213
+tt5244818;Havana Kill Castro                      ;8.0;7;3;1;301
+tt5244820;Universal Prostituion and Pizza Fridays ;9.0;5;3;2;302
+tt5244826;Just Stuck It in That There Doo-Dad     ;	;	;3;3;303
+tt5244828;Confetti Deathblow                      ;	;	;3;4;304
+tt5244832;Jimmy Gets Goosed                       ;8.6;5;3;5;305
+tt5244840;Casino Loyale                           ;	;	;3;6;306
+tt5244846;Vagina's Got Talent                     ;8.6;5;3;7;307
+tt5244856;New York State of Blind Drunk           ;9.0;5;3;8;308
+tt5244862;Cookie's Ovary-actin'                   ;7.7;7;3;9;309
+tt5244868;Royal Canadian Groping Pariah           ;	;	;3;10;310
+tt5795068;What the F#@K Is the Grey Cup           ;8.8;5;3;11;311
+tt6734566;Sasquatchewan                           ;9.4;5;3;12;312
+tt6734594;Nonna Your Business                     ;	;	;3;13;313
+tt6734596;Layin' Some Pipeline                    ;	;	;3;14;314
+tt6649016;Keepin' Up with the McFelchers          ;	;	;3;15;315
+tt6734600;Horse Springs Paternal                  ;	;	;3;16;316
+tt6734604;Hot Wet Amphibious Summer               ;	;	;3;17;317
+tt6734608;An Unmarried Bra Whisperer              ;	;	;3;18;318
+tt6734620;Spicy Apocalypse                        ;	;	;3;19;319
+tt6734642;Vengeance Wore a Unitard                ;	;	;3;20;320
