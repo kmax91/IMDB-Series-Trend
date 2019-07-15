@@ -3,7 +3,8 @@
 ## Procedure:
 1. Import the IMDB datasets from the following URL:  
 https://datasets.imdbws.com/
- 
+or use Import_Data.sh 
+
 2. Unzip the files (use gunzip)
 
 3. Create a folder called IMDB_Data
